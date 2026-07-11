@@ -1,0 +1,22 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Ambiente
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Docker
+postgres-data/
+redis-data/
